@@ -36,7 +36,7 @@ fun AppFooterBar() {
 
             Text(
                 text = "Budget Bro",
-                style = MaterialTheme.typography.titleMedium // ✅ bigger text
+                style = MaterialTheme.typography.titleMedium 
             )
         }
     }
