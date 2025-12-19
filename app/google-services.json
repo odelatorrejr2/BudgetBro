@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "10634565208",
+    "project_id": "budgetbro-c0f80",
+    "storage_bucket": "budgetbro-c0f80.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:10634565208:android:542ded812a475e7b509c2d",
+        "android_client_info": {
+          "package_name": "com.example.budgetbro"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDu86wi0-EiokJLFR_0IxOtcz4lbYfszrU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
